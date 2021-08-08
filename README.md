@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lubna Noor Ahmad</h1>
-<h3 align="center">A CSE 3rd year student skilled at C,JAVA.I am an AVID LEARNER whose always looking towards new opportunities and new learnings.</h3>
+<h3 align="center">A CSE 3rd year student skilled at C,JAVA and a FRONTEND DEVELOPER.I am an AVID LEARNER whose always looking towards new opportunities and new learnings.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubna507&label=Profile%20views&color=0e75b6&style=flat" alt="lubna507" /> </p>
 
